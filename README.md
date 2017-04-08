@@ -1,0 +1,2 @@
+# jurnal8
+satu
