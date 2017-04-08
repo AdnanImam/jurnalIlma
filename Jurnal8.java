@@ -8,7 +8,7 @@ public class Jurnal8 {
 
  
     public static void main(String[] args) {
-         int a=1,b=1,hasil=0,c;
+         int na=1,nb=1,nhasil=0,nc;
         Scanner input = new Scanner (System.in);
    System.out.print ("Masukkan angka   : ");
         c = input.nextInt ();
