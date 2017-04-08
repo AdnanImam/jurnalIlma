@@ -8,9 +8,9 @@ public class Jurnal8 {
 
  
     public static void main(String[] args) {
-         int a=0,b=1,hasil=0,c;
+         int na=1,nb=1,nhasil=0,nc;
         Scanner input = new Scanner (System.in);
-   System.out.print ("Masukan Deret Fibonacci  : ");
+   System.out.print ("Masukkan angka   : ");
         c = input.nextInt ();
         for(int i=1; i<=c; i++){            
     a=b;
